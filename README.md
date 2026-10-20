@@ -28,6 +28,3 @@ Computer Engineering graduate from **Balıkesir University** (2026). I build ful
 | [**Face Clustering**](https://github.com/AlperSayginEtci/Goruntu_Isleme_Finel_Odevi) | Unsupervised face clustering on scraped news photos | PyTorch, DBSCAN |
 | [**Turkish News Classifier**](https://github.com/AlperSayginEtci/Veri_madenciligi_final_odevi) | Scraped dataset and comparison of NB / kNN / Decision Tree | scikit-learn |
 | [**Music Cascade**](https://github.com/AlperSayginEtci/Music_Cascade_dc_bot) | Dockerized Discord music bot with slash commands | Python, discord.py |
-
-#### 🌱 Currently
-Looking for **junior / new-graduate software engineering** roles.
